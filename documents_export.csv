@@ -1,0 +1,6 @@
+document_id,title,authors,year,document_type,category_proposed,gravity,source_url,review_status
+D001,SAFFIRE-I Operations,NASA Saffire team,,Operations protocol,Spacecraft Fire Safety,Microgravity,https://drive.google.com/file/d/16oDFXuzvWpdfVOm4kr1rhA-f3kti5PdI/view,Initial extraction
+D002,Cool Flame Investigation Science Final Report,Vedha Nayagam; Daniel L. Dietrich,2020,Science final report,Droplets,Microgravity,https://drive.google.com/file/d/19ZgA90RH5PyqyhB3Un454n4VDAHilssD/view,Initial extraction
+D003,ACME Flame Design Final Report,Dennis P. Stocker et al.,2023,Science final report,Gaseous - Premixed and Non-Premixed,Microgravity,https://drive.google.com/file/d/1dKfJNfhFosET0PrvkreddDubSciFg68M/view,Initial extraction
+D004,ACME fact sheet,NASA Glenn,2018,Fact sheet,Gaseous - Premixed and Non-Premixed,Microgravity,https://drive.google.com/file/d/1lXNx8FhOW5uYc0GBU9okS-9RUnfB7kwC/view,Context only
+D005,DECLIC-ALI Taskbook,NASA taskbook,2017,Taskbook,Outside combustion scope pending review,Microgravity,https://drive.google.com/file/d/1OWxpL1YM2JA3jt_a_4S5npPyIdTwkNdC/view,Scope review

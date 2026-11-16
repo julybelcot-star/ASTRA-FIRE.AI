@@ -1,0 +1,4 @@
+experiment_id,document_id,experiment_name,category,gravity,material_or_fuel,geometry,conditions,source_page_pdf,review_status
+E001,D001,SAFFIRE-I protocol,Spacecraft Fire Safety,Microgravity,Large fabric sample,~0.4 m x 0.94 m,On unoccupied Cygnus after ISS departure,1,"Protocol, not measured results"
+E002,D002,CFI cool-flame campaign,Droplets,Microgravity,n-dodecane; blends; farnesane,Liquid droplets,Up to 5 atm across campaign,"1, 5-6",Campaign-level; disaggregate tests
+E003,D003,ACME Flame Design,Gaseous - Premixed and Non-Premixed,Microgravity,Ethylene and propane with oxygen/nitrogen,Spherical diffusion flames,Normal and inverse arrangements; 2019–2022,3,Campaign-level; disaggregate tests

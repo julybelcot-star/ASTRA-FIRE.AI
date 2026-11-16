@@ -1,0 +1,6 @@
+document_id,relevance,status,next_action
+D001,Direct,Initial extraction,Pair with SAFFIRE results document
+D002,Direct,Initial extraction,Extract case-specific quantitative results
+D003,Direct,Initial extraction,Extract case-specific quantitative results
+D004,Context,Context only,Use final reports for outcomes
+D005,Uncertain,Scope review,Verify combustion relevance

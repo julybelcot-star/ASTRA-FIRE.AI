@@ -1,0 +1,4 @@
+finding_id,experiment_id,document_id,finding,evidence_type,source_page_pdf,limitations,review_status
+F001,E001,D001,SAFFIRE-I protocol specifies a large-scale fire on an unoccupied Cygnus after departure from ISS,Documented protocol,1,Not direct flame-spread result,Pending
+F002,E002,D002,CFI studied droplet cool flames with different fuels and atmospheres,Study objective,1,Do not relabel FLEX background results as CFI findings,Pending
+F003,E003,D003,Flame Design includes normal and inverse diffusion flame configurations,Documented method,3,Different tests need separate records,Pending

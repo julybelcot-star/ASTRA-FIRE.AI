@@ -1,0 +1,4 @@
+measurement_id,experiment_id,document_id,variable,value,unit,evidence_type,condition,source_page_pdf,review_status
+M001,E001,D001,sample_width_approx,0.4,m,Documented protocol specification,SAFFIRE-I sample,1,Provisional
+M002,E001,D001,sample_length_approx,0.94,m,Documented protocol specification,SAFFIRE-I sample,1,Provisional
+M003,E002,D002,max_ambient_pressure_in_study,5,atm,Documented study range,CFI program; not single test,1,Provisional
